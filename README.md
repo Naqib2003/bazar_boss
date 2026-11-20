@@ -47,3 +47,9 @@ Prerequisites
 Python 3.8 or higher
 
 pygame (only required for the graphical version)
+
+
+
+![Bazar Boss Gameplay](assets/gameplay1.png)
+![Bazar Boss Gameplay](assets/gameplay2.png)
+![Bazar Boss Gameplay](assets/gameplay3.png)
