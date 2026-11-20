@@ -2,6 +2,11 @@
 
 A Python budget-management and price-comparison game where players must purchase five essential grocery items without exceeding a fixed budget of **505 BDT**, utilizing shop comparisons and a single-use 10% discount coupon to maximize savings.
 
+![Bazar Boss Gameplay](assets/gameplay1.png)
+![Bazar Boss Gameplay](assets/gameplay2.png)
+![Bazar Boss Gameplay](assets/gameplay3.png)
+
+
 ## Game Rules
 - **Starting Budget:** `505.00 BDT`
 - **Objective:** Purchase all 5 required items (`Rice`, `Oil`, `Lentils`, `Eggs`, `Vegetables`) without running out of funds.
@@ -50,6 +55,4 @@ pygame (only required for the graphical version)
 
 
 
-![Bazar Boss Gameplay](assets/gameplay1.png)
-![Bazar Boss Gameplay](assets/gameplay2.png)
-![Bazar Boss Gameplay](assets/gameplay3.png)
+
